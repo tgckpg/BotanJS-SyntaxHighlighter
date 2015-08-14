@@ -3,6 +3,8 @@ Libraries.SyntaxHighlighter = function (){};
 
 /** @type {Function} */
 Libraries.SyntaxHighlighter.all;
+/** @type {Object} */
+Libraries.SyntaxHighlighter.defaults;
 /** @type {Function} */
 Libraries.SyntaxHighlighter.highlight;
 /** @type {Object} */
