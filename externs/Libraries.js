@@ -1,0 +1,2 @@
+/** @constructor */
+var Libraries = function (){};
